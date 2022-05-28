@@ -1,0 +1,3 @@
+Consider a simple pattern matching language that matches arrays of integers. A pattern is an array of integers.
+ An array matches a pattern if it contains sequences of the pattern elements in the same order as they appear in the pattern.
+So for example, the array {1, 1, 1, 2, 2, 1, 1, 3} matches the pattern {1, 2, 1, 3} as follows:
