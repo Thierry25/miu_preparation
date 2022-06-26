@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/ArrayEncoding/ArrayEncoding.iml" filepath="$PROJECT_DIR$/Intermediate/ArrayEncoding/ArrayEncoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CenteredArray/CenteredArray.iml" filepath="$PROJECT_DIR$/CenteredArray/CenteredArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharArray/CharArray.iml" filepath="$PROJECT_DIR$/CharArray/CharArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/CheckConcatenateSum/CheckConcatenateSum.iml" filepath="$PROJECT_DIR$/Intermediate/CheckConcatenateSum/CheckConcatenateSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/ContainsAllIntegers/ContainsAllIntegers.iml" filepath="$PROJECT_DIR$/Intermediate/ContainsAllIntegers/ContainsAllIntegers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/CubePowerful/CubePowerful.iml" filepath="$PROJECT_DIR$/Intermediate/CubePowerful/CubePowerful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/CustomStack/CustomStack.iml" filepath="$PROJECT_DIR$/Intermediate/CustomStack/CustomStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/DecodeArray/DecodeArray.iml" filepath="$PROJECT_DIR$/Intermediate/DecodeArray/DecodeArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/DigitIncreasing/DigitIncreasing.iml" filepath="$PROJECT_DIR$/Intermediate/DigitIncreasing/DigitIncreasing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/EncodeArray/EncodeArray.iml" filepath="$PROJECT_DIR$/Intermediate/EncodeArray/EncodeArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/EncodeNumber/EncodeNumber.iml" filepath="$PROJECT_DIR$/Intermediate/EncodeNumber/EncodeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/IsPrimeHappy/IsPrimeHappy.iml" filepath="$PROJECT_DIR$/Intermediate/IsPrimeHappy/IsPrimeHappy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/IsZeroPlentiful/IsZeroPlentiful.iml" filepath="$PROJECT_DIR$/Intermediate/IsZeroPlentiful/IsZeroPlentiful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/LargestAdjacentSum/LargestAdjacentSum.iml" filepath="$PROJECT_DIR$/Intermediate/LargestAdjacentSum/LargestAdjacentSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/LargestPrimeFactor/LargestPrimeFactor.iml" filepath="$PROJECT_DIR$/Intermediate/LargestPrimeFactor/LargestPrimeFactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MIU2.iml" filepath="$PROJECT_DIR$/.idea/MIU2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/OOP_EXAMPLE/OOP_EXAMPLE.iml" filepath="$PROJECT_DIR$/Intermediate/OOP_EXAMPLE/OOP_EXAMPLE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OddEvenSum/OddEvenSum.iml" filepath="$PROJECT_DIR$/OddEvenSum/OddEvenSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseInt/ReverseInt.iml" filepath="$PROJECT_DIR$/ReverseInt/ReverseInt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/SimplePatternMatching/SimplePatternMatching.iml" filepath="$PROJECT_DIR$/Intermediate/SimplePatternMatching/SimplePatternMatching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/TEST_DAY/TEST_DAY.iml" filepath="$PROJECT_DIR$/Intermediate/TEST_DAY/TEST_DAY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Test2/Test2.iml" filepath="$PROJECT_DIR$/Intermediate/Test2/Test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoArraysCommonValues/TwoArraysCommonValues.iml" filepath="$PROJECT_DIR$/TwoArraysCommonValues/TwoArraysCommonValues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/ZeroPlentiful/ZeroPlentiful.iml" filepath="$PROJECT_DIR$/Intermediate/ZeroPlentiful/ZeroPlentiful.iml" />
+    </modules>
+  </component>
+</project>
